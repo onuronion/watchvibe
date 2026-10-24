@@ -4,10 +4,10 @@
 error_reporting(E_ALL & ~E_DEPRECATED & ~E_NOTICE);
 ini_set('display_errors', 0);
 
-define('DB_HOST', 'sql311.infinityfree.com');
-define('DB_USER', 'if0_39551176');
-define('DB_PASS', '0C5HdKYBZkAtpS');
-define('DB_NAME', 'if0_39551176_wvibe');
+define('DB_HOST', '');
+define('DB_USER', '');
+define('DB_PASS', '');
+define('DB_NAME', '');
 define('SITE_NAME', 'Watchvibe');
 define('SITE_URL', '');
 
